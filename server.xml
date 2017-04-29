@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server>
+	<port>8089</port>
+	<serverName>Han`s Server</serverName>
+	<!-- 默认编码为UTF-8 -->
+	<charset>UTF-8</charset>
+</server>
